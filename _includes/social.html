@@ -1,0 +1,7 @@
+<div class="social">
+    {% for entry in site.data.social %}
+        <a class="button" href="{{ entry[1].href | append: entry[1].id}}" title="{{ entry[1].title }}">
+            {{ entry[1].title }}
+        </a>
+    {% endfor %}
+</div>

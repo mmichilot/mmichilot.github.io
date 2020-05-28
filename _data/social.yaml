@@ -1,0 +1,9 @@
+email:
+  id: matthew.michilot@gmail.com
+  href: 'mailto:'
+  title: Email
+
+github:
+  id: mmichilot
+  href: https://github.com/
+  title: GitHub
