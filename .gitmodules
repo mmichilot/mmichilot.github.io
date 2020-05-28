@@ -2,3 +2,7 @@
 	path = Docs/AD9833-Library
 	url = https://github.com/mmichilot/AD9833-Library.git
 	branch = gh-pages
+[submodule "Projects/my-raspi-OS"]
+	path = Projects/my-raspi-OS
+	url = https://github.com/mmichilot/my-raspi-OS.git
+	branch = gh-pages
