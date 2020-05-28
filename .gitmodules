@@ -1,0 +1,4 @@
+[submodule "Docs/AD9833-Library"]
+	path = Docs/AD9833-Library
+	url = https://github.com/mmichilot/AD9833-Library.git
+	branch = gh-pages
